@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&display=swap');
+
+* {
+box-sizing: border-box;
+}
+
+h1 {
+
+}
+
+NavBarReg {
+
+}
+
+.NavBarTop {
+  background-color: #EDE4E0;
+  width: 100%;
+  color: #FFAF00;
+  height: 5%;
+  padding-top: 10px;
+  position: absolute;
+  Top: 0;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
+  .container {
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+
+.row {
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
